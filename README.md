@@ -9,6 +9,10 @@ My all time favourites are:
 - Resident Evil series
 - Monster Hunter Wilds
 
+My love for games is the exact reason why I have chosen game design as my career path. Every time I play a game I always pay attention to details: when I visit a city or a castle in an RPG, I pay attention to the architecture, the way the buildings are structured, how the streets are laid out; try to imagine how this place would be defended in case of attack.
+
+
+
 # School Projects
 During my years of study in KAMK I have participated in developing some great games that I am very proud of. 
 Here I will showcase some of them, as well as explain exactly what I was responsible for during development.
