@@ -48,14 +48,27 @@ This one is my favourite feature of this project, as it works so well together w
   
   <summary>
     <h2>
-      BloodDrunk
+      DumbshoW
     </h2>
-  </summary><img src="Screenshots/OCZAAt.png" width="170">
-
-  [![Play on itch.io](https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio)](https://flamingbirdboi.itch.io/blood-drunk)
-
-  BloodDrunk is a game made on Unreal Engine 5 for VR.
+  </summary>
   
-  For this project I was in charge of Level design and blockouts, as well as sound.
+<img src="Screenshots/spr_mask_strip6.png" width="170" style="image-rendering: pixelated;">
   
-  </details>
+  [![Play on itch.io](https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio)](https://marmonkin.itch.io/dumbshow)
+
+DumbshoW was made as a part of the Global Game Jam in 2 days by me and my friend.
+
+I was responsible for:
+- Player
+  - Movement
+  - Box throwing
+- Enemies
+  - Movement + AI
+  - Box stun
+  - Dying
+- Boxes
+  - All that box do
+
+<img src="Screenshots/Screenshot_20260409_203226.png" width="606">
+
+</details>
