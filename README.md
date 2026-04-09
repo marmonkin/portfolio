@@ -1,7 +1,7 @@
 # This is me
 
 Hello, my name is Maksim Vlasov, I am a game designer and programmer, studying at KAMK Finland.  <br>
-I am proactive and dedicated, have plenty of experience playing various games of most genres.
+I am proactive and dedicated, have plenty of experience playing various games of many genres.
 <br>
 
 My all time favourites are: 
@@ -9,9 +9,11 @@ My all time favourites are:
 - Resident Evil series
 - Monster Hunter Wilds
 
-My love for games is the exact reason why I have chosen game design as my career path. Every time I play a game I always pay attention to details: when I visit a city or a castle in an RPG, I pay attention to the architecture, the way the buildings are structured, how the streets are laid out; try to imagine how this place would be defended in case of attack.
+Every time I play a game I always pay attention to details: when I visit a city or a castle in an RPG, I pay attention to the architecture, the way the buildings are structured, how the streets are laid out; try to imagine how this place would be defended in case of attack. When I play shooter games with made up firearms I think if or how this design could work in real life, how I could improve it.
 
+I developed this approach after playing Dark Souls for the very first time. It never seases to amaze me how much detail you can put in a game, that is referred to as "unfinished". Every place you visit - littered with tiniest puzzle pieces for people to find and connect. Every item you find - meager in words, but so rich in information.
 
+This game inspired me to become a Game Designer, and to this day inspires me to improve, to some day become one of the greatest.
 
 # School Projects
 During my years of study in KAMK I have participated in developing some great games that I am very proud of. 
