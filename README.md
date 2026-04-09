@@ -10,4 +10,13 @@ My all time favourites are:
 - Monster Hunter Wilds
 
 # School Projects
-During my years of study in KAMK I have participated in developing some great games, that I am very proud of.
+During my years of study in KAMK I have participated in developing some great games that I am very proud of.
+
+<details open>
+  <summary><b>
+    <a href="https://sokifin.itch.io/strung-flowers">Strung Flowers</a>
+  </b></summary>
+  
+<b>My role in the project</b>
+
+</details>
