@@ -17,9 +17,12 @@ Here I will showcase some of them, as well as explain exactly what I was respons
   
   <summary>
     <h2>
-      <a href="https://sokifin.itch.io/strung-flowers">Strung Flowers</a>
+      Strung Flowers
     </h2>
-  </summary>
+  </summary><img src="Screenshots/ZbldLd.png" width="170">
+  
+  [![Play on itch.io](https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio)](https://sokifin.itch.io/strung-flowers)
+  
 Strung Flowers is a game made on Unity and released on itch.io with ~5k views and 288 downloads as of <b>April 2026</b>.
 
 Here are some notable things I was responsible for
@@ -45,8 +48,14 @@ This one is my favourite feature of this project, as it works so well together w
   
   <summary>
     <h2>
-      <a href="https://flamingbirdboi.itch.io/blood-drunk">BloodDrunk</a>
+      BloodDrunk
     </h2>
-  </summary>
+  </summary><img src="Screenshots/OCZAAt.png" width="170">
 
+  [![Play on itch.io](https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio)](https://flamingbirdboi.itch.io/blood-drunk)
+
+  BloodDrunk is a game made on Unreal Engine 5 for VR.
+  
+  For this project I was in charge of Level design and blockouts, as well as sound.
+  
   </details>
