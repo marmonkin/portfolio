@@ -64,7 +64,9 @@ This one is my favourite feature of this project, as it works so well together w
 
 DumbshoW was made as a part of the Global Game Jam in 2 days by me and my friend.
 
-I was responsible for:
+We both took part in designing the core mechanics, gameplay and style.
+
+Programming-wise I was responsible for:
 - Player
   - Movement
   - Box throwing
