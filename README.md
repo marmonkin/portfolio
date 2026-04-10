@@ -13,7 +13,7 @@ Every time I play a game I always pay attention to details: when I visit a city 
 
 I developed this approach after playing Dark Souls for the very first time. It never seases to amaze me how much detail you can put in a game, that is referred to as "unfinished". Every place you visit - littered with tiniest puzzle pieces for people to find and connect. Every item you find - meager in words, but so rich in information.
 
-This game inspired me to become a Game Designer, and to this day inspires me to improve, to some day become one of the greatest.
+This game inspired me to become a Game Designer, and still inspires me to improve, to some day become one of the greatest.
 
 # School Projects
 During my years of study in KAMK I have participated in developing some great games that I am very proud of. 
