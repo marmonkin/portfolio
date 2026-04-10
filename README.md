@@ -37,7 +37,7 @@ Here are some notable things I was responsible for
 - Side detection
 - Score numbers
 
-Dice were made with expandability in mind, so new ones can be easily added by simply duplicating the base one, applying a new texture and changing side numbers if needed.
+Dice were made with expandability in mind, so new ones can be easily added by simply duplicating the base one, applying a new texture and changing side value numbers if needed.
   
   <img src="Screenshots/gaming.png" width="603">
 
@@ -47,6 +47,8 @@ Dice were made with expandability in mind, so new ones can be easily added by si
 This one is my favourite feature of this project, as it works so well together with all dice.
 
   <img src="Screenshots/shoppe.png" width="602">
+
+Apart from that, I was actively participating in designing the game: dice functionality, dice names, enemy designs as well as design documentation were all done by me.
 
 </details>
 
