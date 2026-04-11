@@ -19,6 +19,8 @@ This game inspired me to become a Game Designer, and still inspires me to improv
 During my years of study in KAMK I have participated in developing some great games that I am very proud of. 
 Here I will showcase some of them, as well as explain exactly what I was responsible for during development.
 
+Below I list most notable projects I participated in. If you'd like to see more, you can check out [my itch.io page](https://marmonkin.itch.io/)
+
 <details open>
   
   <summary>
