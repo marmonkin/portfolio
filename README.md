@@ -60,7 +60,7 @@ Apart from that, I was actively participating in designing the game: dice functi
     <h2>
       Spaceship Cannoneer
     </h2>
-  </summary><img src="Screenshots/ZbldLd.png" width="170">
+  </summary><img src="Screenshots/LogoWarLost2_kopio.webp" width="170">
 
 [![Play on itch.io](https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio)]()
 
@@ -77,7 +77,13 @@ Here are the systems that I built:
   - VFX implementation
 - Outside cannon visuals synchronisation with the map
 - Cannon status screen functionality
-  
+
+<img src="Screenshots/Screenshot_1.png" width="600"> <br>
+
+<img src="Screenshots/Screenshot_2.png" width="600"> <br>
+
+<img src="Screenshots/3.png" width="600">
+
 </details>
 
 <details open>
