@@ -69,7 +69,14 @@ We were given a lot of creative liberty on this one, having only an old GDD for 
 
 I led design efforts for the project, driving decisions on gameplay mechanics and visual style in collaboration with the team. Additionally I contributed to gameplay programming and served as a contact for client communication.
 
-
+Here are the systems that I built:
+- Holographic Map
+  - Tile functionality
+  - Enemies
+  - Cannon tile targeting and shooting
+  - VFX implementation
+- Outside cannon visuals synchronisation with the map
+- Cannon status screen functionality
   
 </details>
 
