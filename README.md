@@ -64,6 +64,8 @@ Apart from that, I was actively participating in designing the game and its mech
 
 [![Play on itch.io](https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio)](https://realkam1.itch.io/spaceship-cannoneer)
 
+Spaceship Cannoneer is a small strategy game made in Godot, where you take command of a giant spaceship, lost deep in enemy sector, where the only way to survive is to defend yourself from waves of enemies, slowly approaching for an attack. <br>
+
 For this project I was selected as part of a small team to develop Spaceship Cannoneer for an external client, [Kalla Gameworks](https://www.kallagameworks.com/), which was intended for presentation to a partner company. <br>
 We were given a lot of creative liberty on this one, having only an old GDD for a different game as a reference, which is why we were having frequent meetings with Kalla Gameworks representative to discuss the changes and future course of development.
 
@@ -98,7 +100,7 @@ Here are the systems that I built:
   
   [![Play on itch.io](https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio)](https://marmonkin.itch.io/dumbshow)
 
-DumbshoW was made as a part of the Global Game Jam in 2 days by me and my friend.
+DumbshoW was made in Godot as a part of the Global Game Jam in 2 days by me and my friend.
 
 We both took part in designing the core mechanics, gameplay and style.
 
