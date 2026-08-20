@@ -67,7 +67,7 @@ Apart from that, I was actively participating in designing the game and its mech
 For this project I was selected as part of a small team to develop Spaceship Cannoneer for an external client, [Kalla Gameworks](https://www.kallagameworks.com/), which was intended for presentation to a partner company. <br>
 We were given a lot of creative liberty on this one, having only an old GDD for a different game as a reference, which is why we were having frequent meetings with Kalla Gameworks representative to discuss the changes and future course of development.
 
-I led design efforts for the project, driving decisions on gameplay mechanics and visual style in collaboration with the team. Additionally I contributed to gameplay programming and served as a contact for client communication.
+I led design efforts for the project, driving decisions on gameplay mechanics and visual style in collaboration with the team. Additionally I contributed to gameplay programming and served as a contact for client communication, as well as, naturally, writing all design documentation.
 
 Here are the systems that I built:
 - Holographic Map
