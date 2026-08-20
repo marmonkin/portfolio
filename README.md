@@ -50,7 +50,7 @@ This one is my favorite feature of this project, as it works so well together wi
 
   <img src="Screenshots/shoppe.png" width="602">
 
-Apart from that, I was actively participating in designing the game: dice functionality, dice names, enemy designs as well as design documentation were all done by me.
+Apart from that, I was actively participating in designing the game and its mechanics with my team: dice functionality, dice names, gameplay loop, enemy designs. All project documentation was also done by me.
 
 </details>
 
