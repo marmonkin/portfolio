@@ -46,7 +46,7 @@ Dice were made with expandability in mind, so new ones can be easily added by si
 <b>Shop label:</b>
 - Automatically assigns price, name and texture
 
-This one is my favorite feature of this project, as it works so well together with all dice.
+This one is my favorite feature of this project, as it works so well together with all dice. This system was also made with an intent to easily expand the amount of dice that can appear for sale.
 
   <img src="Screenshots/shoppe.png" width="602">
 
@@ -77,8 +77,10 @@ Here are the systems that I built:
   - Enemies
   - Cannon tile targeting and shooting
   - VFX implementation
-- Outside cannon visuals synchronisation with the map
+- Outside cannon visuals synchronization with the map
 - Cannon status screen functionality
+
+While I was working on these features, two other programmers were also working on their own tasks, which often extended or were required by other systems. Due to this interdependence and our general inexperience with Godot, we collaborated more than usual, thinking ahead and planning how to integrate the different parts once they were ready.
 
 <img src="Screenshots/Screenshot_1.png" width="600"> <br>
 
@@ -103,6 +105,8 @@ Here are the systems that I built:
 DumbshoW was made in Godot as a part of the Global Game Jam in 2 days by me and my friend.
 
 We both took part in designing the core mechanics, gameplay and style.
+
+This project might be small, but I am still proud of it. We were able to think of highly replayable game concept in a very short time, make a prototype based on it and ended up with a cool game that we could expand on with more game mechanics later if we want.
 
 Programming-wise I made:
 - Player
