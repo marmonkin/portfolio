@@ -9,7 +9,7 @@ My all time favorites are:
 - Resident Evil series
 - Monster Hunter Wilds
 
-Every time I play a game I always pay attention to details: when I visit a city or a castle in an RPG, I pay attention to the architecture, the way the buildings are structured, how the streets are laid out; try to imagine how this place would be defended in case of attack. When I play shooter games with made up firearms I think if or how this design could work in real life, how I could improve it.
+Every time I play a game I always pay attention to details: when I visit a city or a castle in an RPG, I pay attention to the architecture, the way the buildings are structured, how the streets are laid out. When I play shooter games with made up firearms I think if or how this design could work in real life, how I could improve it.
 
 I developed this approach after playing Dark Souls for the very first time. It never seaces to amaze me how much detail you can put in a game, that is referred to as "unfinished". Every place you visit - littered with tiniest puzzle pieces for people to find and connect. Every item you find - meager in words, but so rich in information.
 
