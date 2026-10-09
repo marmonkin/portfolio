@@ -37,7 +37,7 @@ These systems depended on features two other programmers were building at the sa
 - Acted as the team's contact with the client; our only brief was an old GDD for a different game, so we met regularly to agree on changes and direction
 - Wrote all design documentation
 
-<!-- Add a code snippet here, e.g. the cannon targeting logic, or a GIF of the map in action -->
+<!-- code snippet? -->
 
 <img src="Screenshots/Screenshot_1.png" width="600"> <br>
 <img src="Screenshots/Screenshot_2.png" width="600"> <br>
@@ -68,7 +68,7 @@ A roguelike deckbuilding dice game: gamble your way out of hell by beating Satan
 - Designed dice functionality, dice names, the gameplay loop and enemies together with the team
 - Wrote all project documentation
 
-<!-- Add a code snippet here, e.g. dice side detection -->
+<!-- code snippet? -->
 
 ---
 
@@ -91,6 +91,8 @@ An arcade survival game: dodge the deadly mask, throw boxes to stun enemies, and
 
 **Design**
 - Co-designed the core mechanics, gameplay and visual style
+
+<!-- code snippet? -->
 
 <img src="Screenshots/Screenshot_20260409_203226.png" width="606">
 
