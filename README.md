@@ -1,14 +1,14 @@
 # Maksim Vlasov — Gameplay Programmer
 
 [![itch.io](https://img.shields.io/badge/itch.io-marmonkin-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://marmonkin.itch.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maksim_Vlasov-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([LINKEDIN URL])
-[![Email](https://img.shields.io/badge/Email-Contact_me-555555?style=flat-square)](mailto:[EMAIL])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maksim_Vlasov-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksim-vlasov-812b3b247/)
+[![Email](https://img.shields.io/badge/Email-Contact_me-555555?style=flat-square)](mailto:maksiim.vlasov@gmail.com)
 
 Game development student at KAMK (Kajaani University of Applied Sciences), Finland. I build gameplay systems in Unity and Godot with a focus on mechanics that are easy to extend, and I contribute to design on every project I work on, from core mechanics to full design documentation.
 
 My eye for design comes from Dark Souls: I pay attention to how small details like level architecture and item descriptions carry a game's world, and I build systems that leave room for that kind of content.
 
-- **Tech:** Unity (C#), Godot ([GDScript / C#])
+- **Tech:** Unity (C#), Godot (GDScript)
 - **Also:** Game design, design documentation, client communication
 
 ---
@@ -21,7 +21,7 @@ My eye for design comes from Dark Souls: I pay attention to how small details li
 
 | Role | Engine | Team | Duration | Client |
 |---|---|---|---|---|
-| Gameplay Programmer, Design Lead | Godot | 4 people | [X months] | [Kalla Gameworks](https://www.kallagameworks.com/) |
+| Gameplay Programmer, Design Lead | Godot | 4 people | 3 months | [Kalla Gameworks](https://www.kallagameworks.com/) |
 
 An atmospheric first-person strategy game: you command a giant spaceship lost deep in enemy territory, and the only way to survive is to manage your cannons and hold off the waves of enemies closing in. Built as a demo prototype for an external client, Kalla Gameworks, to present to one of their partner companies. Released on itch.io for Windows and Linux in April 2026.
 
@@ -53,13 +53,13 @@ These systems depended on features two other programmers were building at the sa
 
 | Role | Engine | Team | Duration |
 |---|---|---|---|
-| Gameplay Programmer, Designer | Unity | 10 people | [X months] |
+| Gameplay Programmer, Designer | Unity | 10 people | ~3 months |
 
 A roguelike deckbuilding dice game: gamble your way out of hell by beating Satan's underling at dice three times, then face Satan himself. Special dice from the shop improve your odds, but you pay for them with your own health. Released on itch.io with ~5k views and 288 downloads as of April 2026.
 
 **Systems I built**
-- **Dice:** side detection and score numbers. Built for expandability: a new die is created by duplicating the base die, applying a texture and setting its side values.
-- **Shop labels:** automatically assign price, name and texture to the die for sale, so new dice can easily be added to the shop. My favorite feature of the project, because it works so well with every die.
+- **Dice:** side detection and score numbers. Built for expandability: a new die is created by inheriting from the base die, applying a texture and setting its side values.
+- **Shop labels:** automatically assign price, name and texture to the die for sale, so new dice can easily be added to the shop. My favorite feature of the project, because it works so cleanly with every die.
 
 <img src="Screenshots/gaming.png" width="603">
 <img src="Screenshots/shoppe.png" width="602">
@@ -80,14 +80,14 @@ A roguelike deckbuilding dice game: gamble your way out of hell by beating Satan
 
 | Role | Engine | Team | Duration | Event |
 |---|---|---|---|---|
-| Programmer, Co-designer | Godot | 2 people | 2 days | Global Game Jam [YEAR] |
+| Programmer, Co-designer | Godot | 2 people | 2 days | Global Game Jam 2026 |
 
 An arcade survival game: dodge the deadly mask, throw boxes to stun enemies, and turn the mask against them to survive as long as you can. We came up with a highly replayable concept, built a working prototype in two days, and left room to expand it with more mechanics later.
 
 **Systems I built**
 - **Player:** movement, box throwing
 - **Enemies:** movement and AI, getting stunned by boxes, dying
-- **Boxes:** all box behavior and interactions
+- **Boxes:** all box behavior and interactions (throwing, stunning enemies, pushing mask)
 
 **Design**
 - Co-designed the core mechanics, gameplay and visual style
