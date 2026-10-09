@@ -1,124 +1,99 @@
-# This is me
+# Maksim Vlasov — Gameplay Programmer
 
-Hello, my name is Maksim Vlasov, I am a game designer and programmer, studying at KAMK Finland.  <br>
-I am proactive and dedicated, have plenty of experience playing various games of many genres, and growing experience of making them as well.
-<br>
+[![itch.io](https://img.shields.io/badge/itch.io-marmonkin-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://marmonkin.itch.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maksim_Vlasov-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([LINKEDIN URL])
+[![Email](https://img.shields.io/badge/Email-Contact_me-555555?style=flat-square)](mailto:[EMAIL])
 
-My all time favorites are: 
-- Dark Souls
-- Resident Evil series
-- Monster Hunter Wilds
+Game development student at KAMK (Kajaani University of Applied Sciences), Finland. I build gameplay systems in Unity and Godot with a focus on mechanics that are easy to extend, and I contribute to design on every project I work on, from core mechanics to full design documentation.
 
-Every time I play a game I always pay attention to details: when I visit a city or a castle in an RPG, I pay attention to the architecture, the way the buildings are structured, how the streets are laid out. When I play shooter games with made up firearms I think if or how this design could work in real life, how I could improve it.
+My eye for design comes from Dark Souls: I pay attention to how small details like level architecture and item descriptions carry a game's world, and I build systems that leave room for that kind of content.
 
-I developed this approach after playing Dark Souls for the very first time. It never seaces to amaze me how much detail you can put in a game, that is referred to as "unfinished". Every place you visit - littered with tiniest puzzle pieces for people to find and connect. Every item you find - meager in words, but so rich in information.
+- **Tech:** Unity (C#), Godot ([GDScript / C#])
+- **Also:** Game design, design documentation, client communication
 
-This game inspired me to become a Game Designer, and still inspires me to improve, to some day become one of the greatest.
+---
 
-# School Projects
-During my years of study in KAMK I have participated in developing some great games that I am very proud of. 
-Here I will showcase some of them, as well as explain exactly what I was responsible for during development.
+## Spaceship Cannoneer
 
-Below I list most notable projects I participated in. If you'd like to see more, you can check out [my itch.io page](https://marmonkin.itch.io/)
-
-<details open>
-  
-  <summary>
-    <h2>
-      Strung Flowers
-    </h2>
-  </summary><img src="Screenshots/ZbldLd.png" width="170">
-  
-  [![Play on itch.io](https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio)](https://sokifin.itch.io/strung-flowers)
-  
-Strung Flowers is a game made on Unity and released on itch.io with ~5k views and 288 downloads as of <b>April 2026</b>.
-
-Here are some notable things I was responsible for
-
-<b>Dice functionality: </b>
-- Side detection
-- Score numbers
-
-Dice were made with expandability in mind, so new ones can be easily added by simply duplicating the base one, applying a new texture and changing side value numbers if needed.
-  
-  <img src="Screenshots/gaming.png" width="603">
-
-<b>Shop label:</b>
-- Automatically assigns price, name and texture
-
-This one is my favorite feature of this project, as it works so well together with all dice. This system was also made with an intent to easily expand the amount of dice that can appear for sale.
-
-  <img src="Screenshots/shoppe.png" width="602">
-
-Apart from that, I was actively participating in designing the game and its mechanics with my team: dice functionality, dice names, gameplay loop, enemy designs. All project documentation was also done by me.
-
-</details>
-
-<details open>
-  
-  <summary>
-    <h2>
-      Spaceship Cannoneer
-    </h2>
-  </summary><img src="Screenshots/LogoWarLost2_kopio.webp" width="170">
+<img src="Screenshots/LogoWarLost2_kopio.webp" width="170">
 
 [![Play on itch.io](https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio)](https://realkam1.itch.io/spaceship-cannoneer)
 
-Spaceship Cannoneer is an atmospheric strategy game made in Godot, where you take command of a giant spaceship, lost deep in enemy sector, where the only way to survive is to defend yourself from waves of enemies, slowly approaching for an attack. <br>
+| Role | Engine | Team | Duration | Client |
+|---|---|---|---|---|
+| Gameplay Programmer, Design Lead | Godot | 4 people | [X months] | [Kalla Gameworks](https://www.kallagameworks.com/) |
 
-For this project I was selected as part of a small team to develop Spaceship Cannoneer for an external client, [Kalla Gameworks](https://www.kallagameworks.com/), which was intended for presentation to a partner company. <br>
-We were given a lot of creative liberty on this one, having only an old GDD for a different game as a reference, which is why we were having frequent meetings with Kalla Gameworks representative to discuss the changes and future course of development.
+An atmospheric first-person strategy game: you command a giant spaceship lost deep in enemy territory, and the only way to survive is to manage your cannons and hold off the waves of enemies closing in. Built as a demo prototype for an external client, Kalla Gameworks, to present to one of their partner companies. Released on itch.io for Windows and Linux in April 2026.
 
-I led design efforts for the project, driving decisions on gameplay mechanics and visual style in collaboration with the team. Additionally I contributed to gameplay programming and served as a contact for client communication, as well as, naturally, writing all design documentation.
+**Systems I built**
+- **Holographic map:** tile functionality, map enemies, cannon tile targeting and shooting, VFX implementation
+- **Exterior cannon sync:** cannon visuals outside the ship stay synchronized with the map
+- **Cannon status screen:** full screen functionality
 
-Here are the systems that I built:
-- Holographic Map
-  - Tile functionality
-  - Enemies
-  - Cannon tile targeting and shooting
-  - VFX implementation
-- Outside cannon visuals synchronization with the map
-- Cannon status screen functionality
+These systems depended on features two other programmers were building at the same time, in an engine none of us had much experience with. We planned the integration points ahead so each part could plug in as soon as it was ready.
 
-While I was working on these features, two other programmers were also working on their own tasks, which often extended or were required by other systems. Due to this interdependence and our general inexperience with Godot, we collaborated more than usual, thinking ahead and planning how to integrate the different parts once they were ready.
+**Design and production**
+- Led design decisions on gameplay mechanics and visual style
+- Acted as the team's contact with the client; our only brief was an old GDD for a different game, so we met regularly to agree on changes and direction
+- Wrote all design documentation
+
+<!-- Add a code snippet here, e.g. the cannon targeting logic, or a GIF of the map in action -->
 
 <img src="Screenshots/Screenshot_1.png" width="600"> <br>
-
 <img src="Screenshots/Screenshot_2.png" width="600"> <br>
-
 <img src="Screenshots/3.png" width="600">
 
-</details>
+---
 
-<details open>
-  
-  <summary>
-    <h2>
-      DumbshoW
-    </h2>
-  </summary>
-  
+## Strung Flowers
+
+<img src="Screenshots/ZbldLd.png" width="170">
+
+[![Play on itch.io](https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio)](https://sokifin.itch.io/strung-flowers)
+
+| Role | Engine | Team | Duration |
+|---|---|---|---|
+| Gameplay Programmer, Designer | Unity | 10 people | [X months] |
+
+A roguelike deckbuilding dice game: gamble your way out of hell by beating Satan's underling at dice three times, then face Satan himself. Special dice from the shop improve your odds, but you pay for them with your own health. Released on itch.io with ~5k views and 288 downloads as of April 2026.
+
+**Systems I built**
+- **Dice:** side detection and score numbers. Built for expandability: a new die is created by duplicating the base die, applying a texture and setting its side values.
+- **Shop labels:** automatically assign price, name and texture to the die for sale, so new dice can easily be added to the shop. My favorite feature of the project, because it works so well with every die.
+
+<img src="Screenshots/gaming.png" width="603">
+<img src="Screenshots/shoppe.png" width="602">
+
+**Design**
+- Designed dice functionality, dice names, the gameplay loop and enemies together with the team
+- Wrote all project documentation
+
+<!-- Add a code snippet here, e.g. dice side detection -->
+
+---
+
+## DumbshoW
+
 <img src="Screenshots/spr_mask_strip6.png" width="170" style="image-rendering: pixelated;">
-  
-  [![Play on itch.io](https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio)](https://marmonkin.itch.io/dumbshow)
 
-DumbshoW was made in Godot as a part of the Global Game Jam in 2 days by me and my friend.
+[![Play on itch.io](https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio)](https://marmonkin.itch.io/dumbshow)
 
-We both took part in designing the core mechanics, gameplay and style.
+| Role | Engine | Team | Duration | Event |
+|---|---|---|---|---|
+| Programmer, Co-designer | Godot | 2 people | 2 days | Global Game Jam [YEAR] |
 
-This project might be small, but I am still proud of it. We were able to think of highly replayable game concept in a very short time, make a prototype based on it and ended up with a cool game that we could expand on with more game mechanics later if we want.
+An arcade survival game: dodge the deadly mask, throw boxes to stun enemies, and turn the mask against them to survive as long as you can. We came up with a highly replayable concept, built a working prototype in two days, and left room to expand it with more mechanics later.
 
-Programming-wise I made:
-- Player
-  - Movement
-  - Box throwing
-- Enemies
-  - Movement + AI
-  - Box stun
-  - Dying
-- Boxes
-  - All that box do
+**Systems I built**
+- **Player:** movement, box throwing
+- **Enemies:** movement and AI, getting stunned by boxes, dying
+- **Boxes:** all box behavior and interactions
+
+**Design**
+- Co-designed the core mechanics, gameplay and visual style
 
 <img src="Screenshots/Screenshot_20260409_203226.png" width="606">
 
-</details>
+---
+
+More projects on [my itch.io page](https://marmonkin.itch.io/).
