@@ -1,15 +1,15 @@
-# Maksim Vlasov — Gameplay Programmer
+# Maksim Vlasov — Gameplay Programmer | Unity & Godot | Gameplay Systems, Mechanics & Game Design
 
-[![itch.io](https://img.shields.io/badge/itch.io-marmonkin-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://marmonkin.itch.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maksim_Vlasov-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksim-vlasov-812b3b247/)
-[![Email](https://img.shields.io/badge/Email-Contact_me-555555?style=flat-square)](mailto:maksiim.vlasov@gmail.com)
 
-Game development student at KAMK (Kajaani University of Applied Sciences), Finland. I build gameplay systems in Unity and Godot with a focus on mechanics that are easy to extend, and I contribute to design on every project I work on, from core mechanics to full design documentation.
 
-My eye for design comes from Dark Souls: I pay attention to how small details like level architecture and item descriptions carry a game's world, and I build systems that leave room for that kind of content.
+I build gameplay systems with a focus on ease of use and expandability. I have experience developing features for playable game projects in small, collaborative teams.
 
-- **Tech:** Unity (C#), Godot (GDScript)
-- **Also:** Game design, design documentation, client communication
+My work includes implementing gameplay mechanics for player interaction, integrating visual designing extensible architecture, and contributing to design and technical documentation.
+
+- **Tech:** C#, Unity, GDScript, Godot, Blender, Unreal Engine, C++, Blueprint
+- **Focus:** Gameplay Programming, Game Systems, Game Design
+- **Shipped projects:** [![itch.io](https://img.shields.io/badge/itch.io-marmonkin-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://marmonkin.itch.io/)
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maksim_Vlasov-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksim-vlasov-812b3b247/)
 
 ---
 
@@ -26,9 +26,12 @@ My eye for design comes from Dark Souls: I pay attention to how small details li
 An atmospheric first-person strategy game: you command a giant spaceship lost deep in enemy territory, and the only way to survive is to manage your cannons and hold off the waves of enemies closing in. Built as a demo prototype for an external client, Kalla Gameworks, to present to one of their partner companies. Released on itch.io for Windows and Linux in April 2026.
 
 **Systems I built**
-- **Holographic map:** tile functionality, map enemies, cannon tile targeting and shooting, VFX implementation
-- **Exterior cannon sync:** cannon visuals outside the ship stay synchronized with the map
-- **Cannon status screen:** full screen functionality
+- **Holographic map:** tile functionality, map enemies, cannon tile targeting and shooting, VFX implementation <br>
+<img src="Screenshots/Screenshot_1.png" width="600"> <br>
+- **Exterior cannon sync:** cannon visuals outside the ship stay synchronized with the map <br>
+<img src="Screenshots/3.png" width="600"> <br>
+- **Cannon status screen:** full screen functionality <br>
+<img src="Screenshots/Screenshot_2.png" width="600"> <br>
 
 These systems depended on features two other programmers were building at the same time, in an engine none of us had much experience with. We planned the integration points ahead so each part could plug in as soon as it was ready.
 
@@ -39,9 +42,9 @@ These systems depended on features two other programmers were building at the sa
 
 <!-- code snippet? -->
 
-<img src="Screenshots/Screenshot_1.png" width="600"> <br>
-<img src="Screenshots/Screenshot_2.png" width="600"> <br>
-<img src="Screenshots/3.png" width="600">
+
+
+
 
 ---
 
@@ -58,11 +61,10 @@ These systems depended on features two other programmers were building at the sa
 A roguelike deckbuilding dice game: gamble your way out of hell by beating Satan's underling at dice three times, then face Satan himself. Special dice from the shop improve your odds, but you pay for them with your own health. Released on itch.io with ~5k views and 288 downloads as of April 2026.
 
 **Systems I built**
-- **Dice:** side detection and score numbers. Built for expandability: a new die is created by inheriting from the base die, applying a texture and setting its side values.
-- **Shop labels:** automatically assign price, name and texture to the die for sale, so new dice can easily be added to the shop. My favorite feature of the project, because it works so cleanly with every die.
-
-<img src="Screenshots/gaming.png" width="603">
-<img src="Screenshots/shoppe.png" width="602">
+- **Dice:** side detection and score numbers. Built for expandability: a new die is created by inheriting from the base die, applying a texture and setting its side values. <br>
+  <img src="Screenshots/gaming.png" width="603"> <br>
+- **Shop labels:** automatically assign price, name and texture to the die for sale, so new dice can easily be added to the shop. My favorite feature of the project, because it works so cleanly with every die. <br>
+  <img src="Screenshots/shoppe.png" width="602"> 
 
 **Design**
 - Designed dice functionality, dice names, the gameplay loop and enemies together with the team
@@ -87,15 +89,14 @@ An arcade survival game: dodge the deadly mask, throw boxes to stun enemies, and
 **Systems I built**
 - **Player:** movement, box throwing
 - **Enemies:** movement and AI, getting stunned by boxes, dying
-- **Boxes:** all box behavior and interactions (throwing, stunning enemies, pushing mask)
+- **Boxes:** all box behavior and interactions (throwing, stunning enemies, pushing mask) <br>
+<img src="Screenshots/Screenshot_20260409_203226.png" width="606">
 
 **Design**
 - Co-designed the core mechanics, gameplay and visual style
 
 <!-- code snippet? -->
 
-<img src="Screenshots/Screenshot_20260409_203226.png" width="606">
+
 
 ---
-
-More projects on [my itch.io page](https://marmonkin.itch.io/).
