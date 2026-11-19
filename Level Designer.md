@@ -60,13 +60,19 @@ A long level built around cramped corridors. This one I had to do most research 
 
 <!-- TODO: 1-2 sentences on what you wanted the player to feel or do here -->
 
+Start of the level in holding cells:
+
 <img src="Screenshots/asylum_1.jpg" width="600"> <br>
+Hallway shootout:
+
 <img src="Screenshots/asylum_2.jpg" width="600"> <br>
+Dining hall:
+
 <img src="Screenshots/asylum_3.jpg" width="600">
 
 ### What I'd do differently
 
-I didn't draw top-down plans before building; I improvised room by room from the reference board. Playtesters enjoyed the levels, but next time I'd start from a top-down plan, because it makes flow and combat spaces easier to reason about and easier to discuss with the rest of the team.
+The largest issue was that I didn't draw top-down plans before building, instead I mostly improvised room by room. Playtesters enjoyed the levels, but in the future I'd start from a top-down plan, because it makes flow and combat spaces easier to reason about and easier to discuss with the rest of the team.
 
 **Also on this project:** controller haptics, sourcing sounds, recording voice lines, and helping the 3D artist with UV unwrapping and texturing in Substance Painter near the end of the project.
 
