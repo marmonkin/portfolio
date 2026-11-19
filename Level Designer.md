@@ -35,9 +35,6 @@ I was the design lead and spent most of the project designing and blocking out l
 4. **Prop list:** gave our 3D artist a "shopping list" of every prop the level needed.
 5. **Handoff:** sent the blockout to our environment artist for the art pass.
 
-<!-- TODO: export a slide from one of the shopping list PowerPoints as an image and put it here -->
-<!-- <img src="Screenshots/BloodDrunk/shopping_list.png" width="600"> -->
-
 ### Meat processing plant
 
 The level I'm proudest of, and the one I iterated on most: I rebuilt it twice, because the versions before didn't play the way I wanted.
