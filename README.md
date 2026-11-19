@@ -1,4 +1,4 @@
-# Maksim Vlasov — Gameplay Programmer | Unity & Godot | Gameplay Systems, Mechanics & Game Design
+# Maksim Vlasov — Gameplay Programmer | Game Designer
 
 
 
